@@ -1,0 +1,7 @@
+(offline template output - replace with a real Gemini output, see README)
+
+Situation: After cleaning the order data, total revenue is INR 97,358.30. This is INR 2,501.90 lower than the raw total of INR 99,860.20, and the whole difference comes from duplicate double-submitted orders. March is the real peak month with INR 20,318.90.
+
+Complication: Returns are not spread evenly. COD orders are returned 44.4% of the time, compared with 14.7% for card and 18.9% for UPI. The worst segment is COD orders in Tier-2 cities at 54.5%. January looked like the best month (INR 29,582.10) but this was only because of two bulk orders; without them it is INR 11,637.10.
+
+Resolution: Regional ops should focus first on COD orders in Tier-2 cities, for example with confirmation calls or by pushing prepaid payment. Finance should plan using INR 97,358.30 as the revenue base and not treat the January bulk orders as a trend.
